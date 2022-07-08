@@ -1,1 +1,1 @@
-<h1 align="center">Seyed Amir Masoud Noohi</h1>
+<h1 align="center">Amir Masoud Noohi</h1>

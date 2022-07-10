@@ -1,3 +1,4 @@
 <h1 align="center">Amir Masoud Noohi</h1>
-![](https://komarev.com/ghpvc/?username=amirmnoohi&color=green)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirmnoohi&color=blueviolet&style=flat">
+</p>
